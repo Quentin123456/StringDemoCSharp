@@ -7,7 +7,7 @@ namespace StringDemoCSharp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+
             string s = "";
             //（1）字符访问（下标访问s[i]）
             s = "ABCD";
